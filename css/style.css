@@ -1,0 +1,117 @@
+body{
+  text-align: center;
+  font-size: 16px;
+  font-family: 'Karla', sans-serif;
+  margin: auto;
+}
+h2{
+  color: #1bc198;
+  font-family: 'Karla', sans-serif;
+  padding-right: 300px;
+  padding-top: 20px;
+}
+.para{
+  border-right-width: 300px;
+    padding-right: 210px;
+    color: #d3d60b;
+    font-weight: bold;
+    font-size: 18px;
+
+
+}
+.gain{
+  font-size: 13px;
+  text-align: left;
+  padding-left: 36px;
+  color: #d3d3e2;
+  line-height: 2;
+  font-weight: bold;
+
+}
+.top{
+  background-color: #f3f3f7;
+  height: 600px;
+      width: 900px;
+      margin: auto;
+}
+.container{
+  height: 200px;
+  width: 600px;
+  background-color: white;
+  margin-top: 20px;
+    position: relative;
+    top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn{
+  background-color: #b9f307;
+  width: 212px;
+    height: 42px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: 30px;
+    margin-top: 10px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+
+}
+.Full{
+  color: white;
+  line-height: 0;
+  color: #f1eaea;
+    font-size: 14px;
+    margin-right: 30px;
+}
+.lbc{
+  height: 250px;
+  width: 300px;
+  background-color: #1bc198;
+  position: absolute;bottom: 157px;
+  margin-left: 150px;
+}
+.per{
+  font-size: 15px;
+    color: #d3d3e2;
+    font-weight: lighter;
+    padding-left: 12px;
+}
+.tut{
+  color: #f3f3f7;
+      text-align: left;
+      padding-left: 30px;
+      font-size: 13px;
+      line-height: 1.5;
+      font-weight: normal;
+}
+
+h1{
+  color: white;
+    text-align: left;
+    padding-left: 33px;
+}
+.mon{
+  color: white;
+  text-align: left;
+    padding-left: 33px;
+    border-top-width: 20px;
+    padding-top: 25px;
+}
+.why{
+  text-align: left;
+  padding-top: 45px;
+    padding-left: 30px;
+    color: White;
+}
+.rbc{
+  height: 250px;
+  width: 300px;
+  background-color:#14d6bb;
+  margin-top: 30px;
+      margin-left: 450px;
+}
+.attribution{
+  font-size: 20px;
+    color: black;
+}

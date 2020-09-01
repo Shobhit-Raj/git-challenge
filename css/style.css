@@ -43,7 +43,25 @@ h2{
     top: 30px;
     margin-left: auto;
     margin-right: auto;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
+.lbc{
+  height: 250px;
+  width: 300px;
+  background-color: #1bc198;
+  position: relative;bottom: 271px;
+  margin-left: 150px;
+  border-bottom-left-radius:10px;
+}
+.rbc{
+  height: 250px;
+  width: 300px;
+  background-color:#14d6bb;
+  margin-top: 30px;
+      margin-left: 450px;
+      border-bottom-right-radius: 10px;
+    }
 .btn{
   background-color: #b9f307;
   width: 212px;
@@ -55,7 +73,6 @@ h2{
     border-radius: 5px;
     color: white;
     border: none;
-
 }
 .Full{
   color: white;
@@ -64,13 +81,7 @@ h2{
     font-size: 14px;
     margin-right: 30px;
 }
-.lbc{
-  height: 250px;
-  width: 300px;
-  background-color: #1bc198;
-  position: absolute;bottom: 157px;
-  margin-left: 150px;
-}
+
 .per{
   font-size: 15px;
     color: #d3d3e2;
@@ -104,14 +115,10 @@ h1{
     padding-left: 30px;
     color: White;
 }
-.rbc{
-  height: 250px;
-  width: 300px;
-  background-color:#14d6bb;
-  margin-top: 30px;
-      margin-left: 450px;
-}
+
 .attribution{
   font-size: 20px;
     color: black;
+    position: relative;
+    bottom: 260px;
 }
